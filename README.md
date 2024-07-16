@@ -1,6 +1,6 @@
-# Bad luck for you all my repos are private 😓
+# Working on stuff and learning 😓
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=MechanicalNoob05&show_icons=true&locale=en&theme=tokyonight" alt="Tejas Mayekar" /></p>
+<p  align="center">&nbsp;<img src="https://github-readme-stats.zohan.tech/api?username=MechanicalNoob05&show_icons=true&locale=en&theme=tokyonight" alt="Tejas Mayekar" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
