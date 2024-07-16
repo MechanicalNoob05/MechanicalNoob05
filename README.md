@@ -1,6 +1,9 @@
-# Working on stuff and learning 😓
+# Working on stuff and learning 
 
-<p  align="center">&nbsp;<img src="https://github-readme-stats.zohan.tech/api?username=MechanicalNoob05&show_icons=true&locale=en&theme=tokyonight" alt="Tejas Mayekar" /></p>
+<p  align="center">&nbsp;
+  <img src="https://github-readme-stats.zohan.tech/api?username=MechanicalNoob05&show_icons=true&locale=en&theme=tokyonight" alt="Tejas Mayekar" />
+  [stat](https://github-readme-stats.vercel.app/api/top-langs/?username={MechanicalNoob05}&theme=blue-green)
+</p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
