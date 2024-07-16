@@ -2,7 +2,8 @@
 ![Tejas Mayekar GitHub stats](https://github-readme-stats.vercel.app/api?username=MechanicalNoob05&show_icons=true&theme=radical)
 
 <p  align="center">&nbsp;
-  <img src="https://github-readme-stats.zohan.tech/api?username=MechanicalNoob05&show_icons=true&locale=en&theme=tokyonight" alt="Tejas Mayekar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
 </p>
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
