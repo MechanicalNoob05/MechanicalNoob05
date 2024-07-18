@@ -1,9 +1,8 @@
 # Working on stuff and learning 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; width: 100%; margin: auto;">
+<p  align="center">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
-</div>
+</p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
