@@ -1,6 +1,6 @@
 # Working on stuff and learning 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
   <img src="https://github-readme-stats.vercel.app/api?username=MechanicalNoob05&show_icons=true&theme=tokyonight" alt="Tejas Mayekar" />
 </div>
